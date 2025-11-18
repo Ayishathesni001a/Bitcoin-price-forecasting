@@ -38,4 +38,6 @@
 2. Run all cells
 3. Watch the live forecast update automatically
 
+### Trained Model (saved in Google Drive – loads in 5 seconds)
+Folder with full TFT checkpoint + scalers: [Click here to see model files](https://drive.google.com/file/d/1F14gqeDkUGkZGftFEwHPuIcfN0XkA_nM/view?usp=sharing))
 
