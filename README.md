@@ -38,4 +38,4 @@
 2. Run all cells
 3. Watch the live forecast update automatically
 
-### Project Structure
+
